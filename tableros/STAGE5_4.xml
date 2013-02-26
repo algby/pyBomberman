@@ -1,0 +1,93 @@
+<bloques>
+	<title>STAGE5_4</title>
+	<fondo>Fondo3_03</fondo>
+	<musica>music/arcade</musica>
+	<cantPowerUps>30</cantPowerUps>
+	<bloque tipo="D" fila = "0" col = "2">grass</bloque>
+	<bloque tipo="D" fila = "0" col = "4">grass</bloque>
+	<bloque tipo="D" fila = "0" col = "5">grass</bloque>
+	<bloque tipo="D" fila = "0" col = "6">grass</bloque>
+	<bloque tipo="D" fila = "0" col = "10">grass</bloque>
+	
+	<bloque tipo="I" fila = "1" col = "1">ant</bloque>
+	<bloque tipo="I" fila = "1" col = "3">bear</bloque>
+	<bloque tipo="I" fila = "1" col = "5">bird</bloque>
+	<bloque tipo="I" fila = "1" col = "7">bull</bloque>
+	<bloque tipo="I" fila = "1" col = "9">crocodile</bloque>
+	<bloque tipo="I" fila = "1" col = "11">donkey</bloque>
+	
+	<bloque tipo="D" fila = "2" col = "0">grass</bloque>
+	<bloque tipo="D" fila = "2" col = "2">grass</bloque>
+	<bloque tipo="D" fila = "2" col = "3">grass</bloque>
+	<bloque tipo="D" fila = "2" col = "4">grass</bloque>
+	<bloque tipo="D" fila = "2" col = "5">grass</bloque>
+	<bloque tipo="D" fila = "2" col = "6">grass</bloque>
+	<bloque tipo="D" fila = "2" col = "8">grass</bloque>
+	<bloque tipo="D" fila = "2" col = "9">grass</bloque>
+	<bloque tipo="D" fila = "2" col = "10">grass</bloque>
+	<bloque tipo="D" fila = "2" col = "12">grass</bloque>
+	
+	<bloque tipo="I" fila = "3" col = "1">eagle</bloque>
+	<bloque tipo="D" fila = "3" col = "2">grass</bloque>
+	<bloque tipo="I" fila = "3" col = "3">elephant</bloque>
+	<bloque tipo="I" fila = "3" col = "5">fox</bloque>
+	<bloque tipo="I" fila = "3" col = "7">frog</bloque>
+	<bloque tipo="I" fila = "3" col = "9">giraffe</bloque>
+	<bloque tipo="I" fila = "3" col = "11">gorilla</bloque>
+	
+	<bloque tipo="D" fila = "4" col = "0">grass</bloque>
+	<bloque tipo="D" fila = "4" col = "2">grass</bloque>
+	<bloque tipo="D" fila = "4" col = "4">grass</bloque>
+	<bloque tipo="D" fila = "4" col = "5">grass</bloque>
+	<bloque tipo="D" fila = "4" col = "8">grass</bloque>
+	<bloque tipo="D" fila = "4" col = "11">grass</bloque>
+	<bloque tipo="D" fila = "4" col = "12">grass</bloque>
+	
+	<bloque tipo="D" fila = "5" col = "0">grass</bloque>
+	<bloque tipo="I" fila = "5" col = "1">horse</bloque>
+	<bloque tipo="I" fila = "5" col = "3">lion</bloque>
+	<bloque tipo="I" fila = "5" col = "5">monkey</bloque>
+	<bloque tipo="D" fila = "5" col = "6">grass</bloque>
+	<bloque tipo="I" fila = "5" col = "7">moose</bloque>
+	<bloque tipo="I" fila = "5" col = "9">mouse</bloque>
+	<bloque tipo="D" fila = "5" col = "10">grass</bloque>
+	<bloque tipo="I" fila = "5" col = "11">panda</bloque>
+	
+	<bloque tipo="D" fila = "6" col = "0">grass</bloque>
+	<bloque tipo="D" fila = "6" col = "2">grass</bloque>
+	<bloque tipo="D" fila = "6" col = "4">grass</bloque>
+	<bloque tipo="D" fila = "6" col = "6">grass</bloque>
+	<bloque tipo="D" fila = "6" col = "7">grass</bloque>
+	<bloque tipo="D" fila = "6" col = "8">grass</bloque>
+	<bloque tipo="D" fila = "6" col = "9">grass</bloque>
+	<bloque tipo="D" fila = "6" col = "10">grass</bloque>
+	
+	<bloque tipo="D" fila = "7" col = "0">grass</bloque>
+	<bloque tipo="I" fila = "7" col = "1">pig</bloque>
+	<bloque tipo="I" fila = "7" col = "3">rabbit</bloque>
+	<bloque tipo="I" fila = "7" col = "5">rhino</bloque>
+	<bloque tipo="I" fila = "7" col = "7">snake</bloque>
+	<bloque tipo="I" fila = "7" col = "9">tiger</bloque>
+	<bloque tipo="D" fila = "7" col = "10">grass</bloque>
+	<bloque tipo="I" fila = "7" col = "11">wolf</bloque>
+	
+	<bloque tipo="D" fila = "8" col = "0">grass</bloque>
+	<bloque tipo="D" fila = "8" col = "3">grass</bloque>
+	<bloque tipo="D" fila = "8" col = "4">grass</bloque>
+	<bloque tipo="D" fila = "8" col = "5">grass</bloque>
+	<bloque tipo="D" fila = "8" col = "8">grass</bloque>
+	<bloque tipo="D" fila = "8" col = "12">grass</bloque>
+	
+	<bloque tipo="I" fila = "9" col = "1">deer</bloque>
+	<bloque tipo="I" fila = "9" col = "7">chicken</bloque>
+	<bloque tipo="I" fila = "9" col = "5">turtle</bloque>
+	<bloque tipo="D" fila = "9" col = "6">grass</bloque>
+	<bloque tipo="I" fila = "9" col = "3">cow</bloque>
+	<bloque tipo="I" fila = "9" col = "9">hippo</bloque>
+	<bloque tipo="I" fila = "9" col = "11">insect</bloque>
+	
+	<bloque tipo="D" fila = "10" col = "2">grass</bloque>
+	<bloque tipo="D" fila = "10" col = "5">grass</bloque>
+	<bloque tipo="D" fila = "10" col = "8">grass</bloque>
+	<bloque tipo="D" fila = "10" col = "10">grass</bloque>
+</bloques>

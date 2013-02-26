@@ -1,0 +1,113 @@
+<bloques>
+	<title>STAGE2_4</title>
+	<fondo>Fondo1-01</fondo>
+	<musica>music/arcade</musica>
+	<cantPowerUps>30</cantPowerUps>
+	<bloque tipo="D" fila = "0" col = "2">spriteD</bloque>
+	<bloque tipo="D" fila = "0" col = "3">spriteD</bloque>
+	<bloque tipo="D" fila = "0" col = "4">spriteD</bloque>
+	<bloque tipo="D" fila = "0" col = "5">spriteD</bloque>
+	<bloque tipo="D" fila = "0" col = "6">spriteD</bloque>
+	<bloque tipo="D" fila = "0" col = "7">spriteD</bloque>
+	<bloque tipo="D" fila = "0" col = "8">spriteD</bloque>
+	<bloque tipo="D" fila = "0" col = "9">spriteD</bloque>
+	<bloque tipo="D" fila = "0" col = "10">spriteD</bloque>
+	
+	<bloque tipo="D" fila = "1" col = "1">spriteD</bloque>
+	<bloque tipo="D" fila = "1" col = "2">spriteD</bloque>
+	<bloque tipo="D" fila = "1" col = "3">spriteD</bloque>
+	<bloque tipo="D" fila = "1" col = "4">spriteD</bloque>
+	<bloque tipo="D" fila = "1" col = "5">spriteD</bloque>
+	<bloque tipo="D" fila = "1" col = "6">spriteD</bloque>
+	<bloque tipo="D" fila = "1" col = "7">spriteD</bloque>
+	<bloque tipo="D" fila = "1" col = "8">spriteD</bloque>
+	<bloque tipo="D" fila = "1" col = "9">spriteD</bloque>
+	<bloque tipo="D" fila = "1" col = "10">spriteD</bloque>
+	<bloque tipo="D" fila = "1" col = "11">spriteD</bloque>
+	
+	<bloque tipo="D" fila = "2" col = "0">spriteD</bloque>
+	<bloque tipo="D" fila = "2" col = "1">spriteD</bloque>
+	<bloque tipo="D" fila = "2" col = "2">spriteD</bloque>
+	<bloque tipo="D" fila = "2" col = "3">spriteD</bloque>
+	<bloque tipo="D" fila = "2" col = "9">spriteD</bloque>
+	<bloque tipo="D" fila = "2" col = "10">spriteD</bloque>
+	<bloque tipo="D" fila = "2" col = "11">spriteD</bloque>
+	<bloque tipo="D" fila = "2" col = "12">spriteD</bloque>
+	
+	<bloque tipo="D" fila = "3" col = "0">spriteD</bloque>
+	<bloque tipo="D" fila = "3" col = "1">spriteD</bloque>
+	<bloque tipo="D" fila = "3" col = "2">spriteD</bloque>
+	<bloque tipo="I" fila = "3" col = "6">spriteI</bloque>
+	<bloque tipo="D" fila = "3" col = "10">spriteD</bloque>
+	<bloque tipo="D" fila = "3" col = "11">spriteD</bloque>
+	<bloque tipo="D" fila = "3" col = "12">spriteD</bloque>
+	
+	<bloque tipo="D" fila = "4" col = "0">spriteD</bloque>
+	<bloque tipo="D" fila = "4" col = "1">spriteD</bloque>
+	<bloque tipo="I" fila = "4" col = "5">spriteI</bloque>
+	<bloque tipo="I" fila = "4" col = "6">spriteI</bloque>
+	<bloque tipo="I" fila = "4" col = "7">spriteI</bloque>
+	<bloque tipo="D" fila = "4" col = "11">spriteD</bloque>
+	<bloque tipo="D" fila = "4" col = "12">spriteD</bloque>
+	
+	<bloque tipo="D" fila = "5" col = "0">spriteD</bloque>
+	<bloque tipo="D" fila = "5" col = "1">spriteD</bloque>
+	<bloque tipo="I" fila = "5" col = "4">spriteI</bloque>
+	<bloque tipo="I" fila = "5" col = "5">spriteI</bloque>
+	<bloque tipo="I" fila = "5" col = "6">spriteI</bloque>
+	<bloque tipo="I" fila = "5" col = "7">spriteI</bloque>
+	<bloque tipo="I" fila = "5" col = "8">spriteI</bloque>
+	<bloque tipo="D" fila = "5" col = "11">spriteD</bloque>
+	<bloque tipo="D" fila = "5" col = "12">spriteD</bloque>
+	
+	<bloque tipo="D" fila = "6" col = "0">spriteD</bloque>
+	<bloque tipo="D" fila = "6" col = "1">spriteD</bloque>
+	<bloque tipo="I" fila = "6" col = "3">spriteI</bloque>
+	<bloque tipo="I" fila = "6" col = "4">spriteI</bloque>
+	<bloque tipo="I" fila = "6" col = "5">spriteI</bloque>
+	<bloque tipo="I" fila = "6" col = "6">spriteI</bloque>
+	<bloque tipo="I" fila = "6" col = "7">spriteI</bloque>
+	<bloque tipo="I" fila = "6" col = "8">spriteI</bloque>
+	<bloque tipo="I" fila = "6" col = "9">spriteI</bloque>
+	<bloque tipo="D" fila = "6" col = "11">spriteD</bloque>
+	<bloque tipo="D" fila = "6" col = "12">spriteD</bloque>
+	
+	<bloque tipo="D" fila = "7" col = "0">spriteD</bloque>
+	<bloque tipo="D" fila = "7" col = "1">spriteD</bloque>
+	<bloque tipo="D" fila = "7" col = "2">spriteD</bloque>
+	<bloque tipo="I" fila = "7" col = "6">spriteI</bloque>
+	<bloque tipo="D" fila = "7" col = "10">spriteD</bloque>
+	<bloque tipo="D" fila = "7" col = "11">spriteD</bloque>
+	<bloque tipo="D" fila = "7" col = "12">spriteD</bloque>
+	
+	<bloque tipo="D" fila = "8" col = "0">spriteD</bloque>
+	<bloque tipo="D" fila = "8" col = "1">spriteD</bloque>
+	<bloque tipo="D" fila = "8" col = "2">spriteD</bloque>
+	<bloque tipo="D" fila = "8" col = "3">spriteD</bloque>
+	<bloque tipo="D" fila = "8" col = "9">spriteD</bloque>
+	<bloque tipo="D" fila = "8" col = "10">spriteD</bloque>
+	<bloque tipo="D" fila = "8" col = "11">spriteD</bloque>
+	<bloque tipo="D" fila = "8" col = "12">spriteD</bloque>
+	
+	<bloque tipo="D" fila = "9" col = "1">spriteD</bloque>
+	<bloque tipo="D" fila = "9" col = "2">spriteD</bloque>
+	<bloque tipo="D" fila = "9" col = "3">spriteD</bloque>
+	<bloque tipo="D" fila = "9" col = "4">spriteD</bloque>
+	<bloque tipo="D" fila = "9" col = "5">spriteD</bloque>
+	<bloque tipo="D" fila = "9" col = "6">spriteD</bloque>
+	<bloque tipo="D" fila = "9" col = "7">spriteD</bloque>
+	<bloque tipo="D" fila = "9" col = "8">spriteD</bloque>
+	<bloque tipo="D" fila = "9" col = "9">spriteD</bloque>
+	<bloque tipo="D" fila = "9" col = "10">spriteD</bloque>
+	<bloque tipo="D" fila = "9" col = "11">spriteD</bloque>
+	
+	<bloque tipo="D" fila = "10" col = "2">spriteD</bloque>
+	<bloque tipo="D" fila = "10" col = "3">spriteD</bloque>
+	<bloque tipo="D" fila = "10" col = "4">spriteD</bloque>
+	<bloque tipo="D" fila = "10" col = "5">spriteD</bloque>
+	<bloque tipo="D" fila = "10" col = "6">spriteD</bloque>
+	<bloque tipo="D" fila = "10" col = "7">spriteD</bloque>
+	<bloque tipo="D" fila = "10" col = "8">spriteD</bloque>
+	<bloque tipo="D" fila = "10" col = "9">spriteD</bloque>
+	<bloque tipo="D" fila = "10" col = "10">spriteD</bloque>
+</bloques>
